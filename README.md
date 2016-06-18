@@ -15,7 +15,7 @@ When you upload a picture on Facebook, the ```/photos/tagging/recognition``` end
 
 ```sh
 $ git clone https://github.com/akhld/facematch
-$ cd facematch
+$ cd facematch 
 $ npm install
 ```
 
